@@ -7,6 +7,7 @@ from OpenGL.GLU import *
 import menu.menu_ui as menu
 # import entity.logic_entity as entity
 # import player.logic_player as player
+# Get Rekt
 
 w,h = 800,600
 w_position,h_position = (ctypes.windll.user32.GetSystemMetrics(0)/2)-(w/2), (ctypes.windll.user32.GetSystemMetrics(1)/2)-(h/2)
